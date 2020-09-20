@@ -2,7 +2,7 @@
 
 ## Socials
 - Twiter 🐦: https://twitter.com/NiceSins
-- YouTube ▶️: https://sjc.go.twitch.tv/mastercloudbender
+- Twitch ▶️: https://sjc.go.twitch.tv/mastercloudbender
 - Instagram 📸: https://www.instagram.com/smoothangroove/
 
 ## Code
