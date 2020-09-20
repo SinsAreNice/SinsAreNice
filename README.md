@@ -1,16 +1,17 @@
-### Hi there 👋
+# SinsAreNice 👋
 
-<!--
-**SinsAreNice/SinsAreNice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials
+- Twiter 🐦: https://twitter.com/NiceSins
+- YouTube ▶️: https://sjc.go.twitch.tv/mastercloudbender
+- Instagram 📸: https://www.instagram.com/smoothangroove/
 
-Here are some ideas to get you started:
+## Code
+- Public Code 💾: coming soon
+- Help 📚: you get no help
+- Known languages ⌨️: Lua, HTML/CSS/c#, JavaScript, Python, php 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Random Stuff
+- Buy me Beer 🍻: https://cash.app/$MattBoomer
+- Graduation 🎓: 2017
+- Developer Discord 🔌: https://discord.gg/x7cYjg5
+- Smooth & Groove 🎶: https://smoothngroove.net/
