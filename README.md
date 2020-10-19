@@ -15,3 +15,4 @@
 - Graduation 🎓: 2017
 - Developer Discord 🔌: https://discord.gg/x7cYjg5
 - Smooth & Groove 🎶: https://smoothngroove.net/
+[![Smoothxrd](https://discordapp.com/api/guilds/751909092662181967/widget.png?style=banner4)](https://discord.com/invite/49SrwZD)
