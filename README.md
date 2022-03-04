@@ -28,6 +28,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
+name: Example
+uses: Doyousin/metrics@latest
+with:
+  template: terminal
+  filename: metrics.terminal.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, metadata
+
 
 ## Random Stuff
 - Buy me Beer 🍻: https://cash.app/$MattBoomer
