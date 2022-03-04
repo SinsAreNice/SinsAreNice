@@ -25,4 +25,4 @@
 - Website 🎶: https://sins.solutions/
 
 
-[![Smoothxrd](https://discordapp.com/api/guilds/751909092662181967/widget.png?style=banner4)](https://discord.com/invite/9gdSBPNhz2)
+[![Smoothxrd](https://discordapp.com/api/guilds/938136179990216744/widget.png?style=banner4)](https://discord.com/invite/9gdSBPNhz2)
