@@ -26,6 +26,9 @@
 <h2 align="center"> </h2>
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+
+
 ## Random Stuff
 - Buy me Beer 🍻: https://cash.app/$MattBoomer
 - Graduation 🎓: 2017
