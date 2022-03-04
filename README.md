@@ -28,19 +28,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
-name: "📙 Terminal template"
-description: A template mimicking a SSH session.
-examples:
-  default: https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg
-index: 2
-supports:
-  - user
-  - organization
-formats:
-  - svg
-  - png
-  - jpeg
-  - json
 
 ## Random Stuff
 - Buy me Beer 🍻: https://cash.app/$MattBoomer
