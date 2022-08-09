@@ -3,7 +3,6 @@
 ## Socials
 - Twiter 🐦: https://twitter.com/NiceSins
 - Twitch ▶️: https://www.twitch.tv/doyousin
-- Instagram 📸: https://www.instagram.com/smoothangroove/
 
 ## Code
 - Public Code 💾: coming soon
